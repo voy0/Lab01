@@ -1,0 +1,14 @@
+C:\Users\pw\OneDrive - Politechnika Warszawska\AllFiles\studia\polibuda\przedmioty\Semestr III\Programowanie 3\Lab01\dotNetCLI\bin\Debug\net8.0\win-x64\dotNetCLI.exe
+C:\Users\pw\OneDrive - Politechnika Warszawska\AllFiles\studia\polibuda\przedmioty\Semestr III\Programowanie 3\Lab01\dotNetCLI\bin\Debug\net8.0\win-x64\dotNetCLI.deps.json
+C:\Users\pw\OneDrive - Politechnika Warszawska\AllFiles\studia\polibuda\przedmioty\Semestr III\Programowanie 3\Lab01\dotNetCLI\bin\Debug\net8.0\win-x64\dotNetCLI.runtimeconfig.json
+C:\Users\pw\OneDrive - Politechnika Warszawska\AllFiles\studia\polibuda\przedmioty\Semestr III\Programowanie 3\Lab01\dotNetCLI\bin\Debug\net8.0\win-x64\dotNetCLI.dll
+C:\Users\pw\OneDrive - Politechnika Warszawska\AllFiles\studia\polibuda\przedmioty\Semestr III\Programowanie 3\Lab01\dotNetCLI\bin\Debug\net8.0\win-x64\dotNetCLI.pdb
+C:\Users\pw\OneDrive - Politechnika Warszawska\AllFiles\studia\polibuda\przedmioty\Semestr III\Programowanie 3\Lab01\dotNetCLI\obj\Debug\net8.0\win-x64\dotNetCLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pw\OneDrive - Politechnika Warszawska\AllFiles\studia\polibuda\przedmioty\Semestr III\Programowanie 3\Lab01\dotNetCLI\obj\Debug\net8.0\win-x64\dotNetCLI.AssemblyInfoInputs.cache
+C:\Users\pw\OneDrive - Politechnika Warszawska\AllFiles\studia\polibuda\przedmioty\Semestr III\Programowanie 3\Lab01\dotNetCLI\obj\Debug\net8.0\win-x64\dotNetCLI.AssemblyInfo.cs
+C:\Users\pw\OneDrive - Politechnika Warszawska\AllFiles\studia\polibuda\przedmioty\Semestr III\Programowanie 3\Lab01\dotNetCLI\obj\Debug\net8.0\win-x64\dotNetCLI.csproj.CoreCompileInputs.cache
+C:\Users\pw\OneDrive - Politechnika Warszawska\AllFiles\studia\polibuda\przedmioty\Semestr III\Programowanie 3\Lab01\dotNetCLI\obj\Debug\net8.0\win-x64\dotNetCLI.dll
+C:\Users\pw\OneDrive - Politechnika Warszawska\AllFiles\studia\polibuda\przedmioty\Semestr III\Programowanie 3\Lab01\dotNetCLI\obj\Debug\net8.0\win-x64\refint\dotNetCLI.dll
+C:\Users\pw\OneDrive - Politechnika Warszawska\AllFiles\studia\polibuda\przedmioty\Semestr III\Programowanie 3\Lab01\dotNetCLI\obj\Debug\net8.0\win-x64\dotNetCLI.pdb
+C:\Users\pw\OneDrive - Politechnika Warszawska\AllFiles\studia\polibuda\przedmioty\Semestr III\Programowanie 3\Lab01\dotNetCLI\obj\Debug\net8.0\win-x64\dotNetCLI.genruntimeconfig.cache
+C:\Users\pw\OneDrive - Politechnika Warszawska\AllFiles\studia\polibuda\przedmioty\Semestr III\Programowanie 3\Lab01\dotNetCLI\obj\Debug\net8.0\win-x64\ref\dotNetCLI.dll

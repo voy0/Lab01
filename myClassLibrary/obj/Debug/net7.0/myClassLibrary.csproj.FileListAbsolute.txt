@@ -1,0 +1,12 @@
+C:\Users\pw\OneDrive - Politechnika Warszawska\AllFiles\studia\polibuda\przedmioty\Semestr III\Programowanie 3\Lab01\New folder\myClassLibrary\bin\Debug\net7.0\myClassLibrary.deps.json
+C:\Users\pw\OneDrive - Politechnika Warszawska\AllFiles\studia\polibuda\przedmioty\Semestr III\Programowanie 3\Lab01\New folder\myClassLibrary\bin\Debug\net7.0\myClassLibrary.dll
+C:\Users\pw\OneDrive - Politechnika Warszawska\AllFiles\studia\polibuda\przedmioty\Semestr III\Programowanie 3\Lab01\New folder\myClassLibrary\bin\Debug\net7.0\myClassLibrary.pdb
+C:\Users\pw\OneDrive - Politechnika Warszawska\AllFiles\studia\polibuda\przedmioty\Semestr III\Programowanie 3\Lab01\New folder\myClassLibrary\obj\Debug\net7.0\myClassLibrary.csproj.AssemblyReference.cache
+C:\Users\pw\OneDrive - Politechnika Warszawska\AllFiles\studia\polibuda\przedmioty\Semestr III\Programowanie 3\Lab01\New folder\myClassLibrary\obj\Debug\net7.0\myClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pw\OneDrive - Politechnika Warszawska\AllFiles\studia\polibuda\przedmioty\Semestr III\Programowanie 3\Lab01\New folder\myClassLibrary\obj\Debug\net7.0\myClassLibrary.AssemblyInfoInputs.cache
+C:\Users\pw\OneDrive - Politechnika Warszawska\AllFiles\studia\polibuda\przedmioty\Semestr III\Programowanie 3\Lab01\New folder\myClassLibrary\obj\Debug\net7.0\myClassLibrary.AssemblyInfo.cs
+C:\Users\pw\OneDrive - Politechnika Warszawska\AllFiles\studia\polibuda\przedmioty\Semestr III\Programowanie 3\Lab01\New folder\myClassLibrary\obj\Debug\net7.0\myClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\pw\OneDrive - Politechnika Warszawska\AllFiles\studia\polibuda\przedmioty\Semestr III\Programowanie 3\Lab01\New folder\myClassLibrary\obj\Debug\net7.0\myClassLibrary.dll
+C:\Users\pw\OneDrive - Politechnika Warszawska\AllFiles\studia\polibuda\przedmioty\Semestr III\Programowanie 3\Lab01\New folder\myClassLibrary\obj\Debug\net7.0\refint\myClassLibrary.dll
+C:\Users\pw\OneDrive - Politechnika Warszawska\AllFiles\studia\polibuda\przedmioty\Semestr III\Programowanie 3\Lab01\New folder\myClassLibrary\obj\Debug\net7.0\myClassLibrary.pdb
+C:\Users\pw\OneDrive - Politechnika Warszawska\AllFiles\studia\polibuda\przedmioty\Semestr III\Programowanie 3\Lab01\New folder\myClassLibrary\obj\Debug\net7.0\ref\myClassLibrary.dll
